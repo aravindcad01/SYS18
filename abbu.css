@@ -1,0 +1,121 @@
+.photo
+{
+place-content: center;
+display: flex;
+gap: 40px 40px;
+background-color: black;
+height: 50px ;
+place-items: center;
+}
+li a
+{
+text-decoration: none;
+
+}
+li
+{
+list-style: none;
+
+}
+ul
+{
+display: flex;
+gap: 100px 100px;
+place-content: center;
+background-color: lightblue;
+}
+.cl
+{
+
+background-color: red;
+  place-items: center;
+
+}
+a:hoverS{
+ background-color: yellowgreen;
+}
+.ramon img
+
+{
+height: 430px;
+width: 350px;
+float: left;
+
+}
+.ramonbg{
+background-color: white;
+text-align: center;
+grid-gap: 50px;
+
+
+
+
+}
+.para{
+font-family: Audiowide;
+grid-gap: 1000px;
+padding: 50px;
+text-align: justify all;
+
+
+}
+.pro
+{
+font-family: Audiowide;
+text-align: center;
+font-size: 40px ;
+}
+.pho img{
+height: 40%;
+width: 40%;
+
+padding:  10px;
+}
+ .slideshow{
+  text-align: center;
+  font-family: Audiowide;
+  margin: 10px;
+ }
+ .ram img{
+ float: right; 
+ }
+ .coach{
+  font-family: Audiowide;
+text-align: center;
+font-size: 20px ;
+ }
+
+ .coaches img {
+  height: 400px;
+width: 400px;
+
+padding:  10px;
+ }
+
+ .headf
+ {
+     font-family: Bungee Spice;
+ }
+ .headfont{
+
+  font-family: Saira Stencil One;
+  ;
+ }
+ .program
+ {
+  text-align: center;
+  font-family: audiowide;
+ }
+ .fi img
+ {
+ float: right;
+ width: 550px;
+ height: 300px;
+
+ }
+ .fl
+ {
+  font-family: Audiowide;
+  text-align: center;
+  font-size: 15px ;
+ }
